@@ -1,0 +1,27 @@
+h1{
+    font-family: cursive;
+    color: rgb(42, 99, 165);
+}
+*{
+    border:transparent;
+}
+.header{
+    font-family: cursive;
+    background-color: #;
+    display: flex;
+    justify-content:space-between;
+}
+.grid{ 
+    font-family: cursive;
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-evenly; 
+}
+.footer{
+    font-family: cursive;
+    display: flex; 
+    justify-content: flex-end;
+}
+body{
+    background-color:#808080;
+}
